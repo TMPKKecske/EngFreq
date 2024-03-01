@@ -1,5 +1,5 @@
 # Engfreq
-#### 用这个应用你可以秩英文的20.000最使用的词语 
+#### 用这个应用你可以排名英文的20.000最使用的词语 
 #### 下载 engfreq-app.apk 从这儿来安装应用： 
 #### https://github.com/TMPKKecske/EngFreq/releases/tag/1.0.0
 ## 截图：
