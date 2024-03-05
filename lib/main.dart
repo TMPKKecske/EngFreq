@@ -107,7 +107,7 @@ class _FileContentPageState extends State<FileContentPage> {
             SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                _rank(_controller.text);
+                _rank(_controller.text.toLowerCase());
               },
               child: Text('Start ranking'),
             ), 
